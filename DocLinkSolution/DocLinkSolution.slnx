@@ -1,1 +1,6 @@
-<Solution />
+<Solution>
+  <Folder Name="/src/">
+    <Project Path="DocLink.Domain/DocLink.Domain.csproj" Id="4c6884c9-b7f0-4c47-af19-82baf63cfbc8" />
+  </Folder>
+  <Folder Name="/tests/" />
+</Solution>

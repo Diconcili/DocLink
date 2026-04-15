@@ -3,14 +3,6 @@
   "WorkspaceRootPath": "D:\\Reposit\u00F3rios\\DocLink\\DocLinkSolution\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{4C6884C9-B7F0-4C47-AF19-82BAF63CFBC8}|DocLink.Domain\\DocLink.Domain.csproj|d:\\reposit\u00F3rios\\doclink\\doclinksolution\\doclink.domain\\shared\\valueobject.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{4C6884C9-B7F0-4C47-AF19-82BAF63CFBC8}|DocLink.Domain\\DocLink.Domain.csproj|solutionrelative:doclink.domain\\shared\\valueobject.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{4C6884C9-B7F0-4C47-AF19-82BAF63CFBC8}|DocLink.Domain\\DocLink.Domain.csproj|d:\\reposit\u00F3rios\\doclink\\doclinksolution\\doclink.domain\\doclink.domain.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
-      "RelativeMoniker": "D:0:0:{4C6884C9-B7F0-4C47-AF19-82BAF63CFBC8}|DocLink.Domain\\DocLink.Domain.csproj|solutionrelative:doclink.domain\\doclink.domain.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{4C6884C9-B7F0-4C47-AF19-82BAF63CFBC8}|DocLink.Domain\\DocLink.Domain.csproj|d:\\reposit\u00F3rios\\doclink\\doclinksolution\\doclink.domain\\patient\\patient.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{4C6884C9-B7F0-4C47-AF19-82BAF63CFBC8}|DocLink.Domain\\DocLink.Domain.csproj|solutionrelative:doclink.domain\\patient\\patient.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -19,12 +11,20 @@
       "RelativeMoniker": "D:0:0:{4C6884C9-B7F0-4C47-AF19-82BAF63CFBC8}|DocLink.Domain\\DocLink.Domain.csproj|solutionrelative:doclink.domain\\shared\\entity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
+      "AbsoluteMoniker": "D:0:0:{4C6884C9-B7F0-4C47-AF19-82BAF63CFBC8}|DocLink.Domain\\DocLink.Domain.csproj|d:\\reposit\u00F3rios\\doclink\\doclinksolution\\doclink.domain\\shared\\valueobject.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4C6884C9-B7F0-4C47-AF19-82BAF63CFBC8}|DocLink.Domain\\DocLink.Domain.csproj|solutionrelative:doclink.domain\\shared\\valueobject.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{4C6884C9-B7F0-4C47-AF19-82BAF63CFBC8}|DocLink.Domain\\DocLink.Domain.csproj|d:\\reposit\u00F3rios\\doclink\\doclinksolution\\doclink.domain\\patient\\patientfullname.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{4C6884C9-B7F0-4C47-AF19-82BAF63CFBC8}|DocLink.Domain\\DocLink.Domain.csproj|solutionrelative:doclink.domain\\patient\\patientfullname.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{4C6884C9-B7F0-4C47-AF19-82BAF63CFBC8}|DocLink.Domain\\DocLink.Domain.csproj|d:\\reposit\u00F3rios\\doclink\\doclinksolution\\doclink.domain\\patient\\patientid.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{4C6884C9-B7F0-4C47-AF19-82BAF63CFBC8}|DocLink.Domain\\DocLink.Domain.csproj|solutionrelative:doclink.domain\\patient\\patientid.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4C6884C9-B7F0-4C47-AF19-82BAF63CFBC8}|DocLink.Domain\\DocLink.Domain.csproj|d:\\reposit\u00F3rios\\doclink\\doclinksolution\\doclink.domain\\doclink.domain.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{4C6884C9-B7F0-4C47-AF19-82BAF63CFBC8}|DocLink.Domain\\DocLink.Domain.csproj|solutionrelative:doclink.domain\\doclink.domain.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
     }
   ],
   "DocumentGroupContainers": [
@@ -34,28 +34,24 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 2,
           "Children": [
             {
-              "$type": "Bookmark",
-              "Name": "ST:128:0:{75188d03-9892-4ae2-abf1-207126247ce5}"
-            },
-            {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 2,
               "Title": "ValueObject.cs",
               "DocumentMoniker": "D:\\Reposit\u00F3rios\\DocLink\\DocLinkSolution\\DocLink.Domain\\Shared\\ValueObject.cs",
               "RelativeDocumentMoniker": "DocLink.Domain\\Shared\\ValueObject.cs",
               "ToolTip": "D:\\Reposit\u00F3rios\\DocLink\\DocLinkSolution\\DocLink.Domain\\Shared\\ValueObject.cs",
               "RelativeToolTip": "DocLink.Domain\\Shared\\ValueObject.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAtAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABsAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-04-15T21:47:38.295Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 1,
               "Title": "Entity.cs",
               "DocumentMoniker": "D:\\Reposit\u00F3rios\\DocLink\\DocLinkSolution\\DocLink.Domain\\Shared\\Entity.cs",
               "RelativeDocumentMoniker": "DocLink.Domain\\Shared\\Entity.cs",
@@ -68,7 +64,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 0,
               "Title": "Patient.cs",
               "DocumentMoniker": "D:\\Reposit\u00F3rios\\DocLink\\DocLinkSolution\\DocLink.Domain\\Patient\\Patient.cs",
               "RelativeDocumentMoniker": "DocLink.Domain\\Patient\\Patient.cs",
@@ -81,7 +77,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 3,
               "Title": "PatientFullName.cs",
               "DocumentMoniker": "D:\\Reposit\u00F3rios\\DocLink\\DocLinkSolution\\DocLink.Domain\\Patient\\PatientFullName.cs",
               "RelativeDocumentMoniker": "DocLink.Domain\\Patient\\PatientFullName.cs",
@@ -94,7 +90,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 4,
               "Title": "PatientId.cs",
               "DocumentMoniker": "D:\\Reposit\u00F3rios\\DocLink\\DocLinkSolution\\DocLink.Domain\\Patient\\PatientId.cs",
               "RelativeDocumentMoniker": "DocLink.Domain\\Patient\\PatientId.cs",
@@ -107,13 +103,13 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 5,
               "Title": "DocLink.Domain",
               "DocumentMoniker": "D:\\Reposit\u00F3rios\\DocLink\\DocLinkSolution\\DocLink.Domain\\DocLink.Domain.csproj",
               "RelativeDocumentMoniker": "DocLink.Domain\\DocLink.Domain.csproj",
               "ToolTip": "D:\\Reposit\u00F3rios\\DocLink\\DocLinkSolution\\DocLink.Domain\\DocLink.Domain.csproj",
               "RelativeToolTip": "DocLink.Domain\\DocLink.Domain.csproj",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAgAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
               "WhenOpened": "2026-04-15T18:44:35.366Z",
               "EditorCaption": ""
