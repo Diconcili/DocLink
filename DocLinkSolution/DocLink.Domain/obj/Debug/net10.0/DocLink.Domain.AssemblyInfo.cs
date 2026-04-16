@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("DocLink.Domain")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+a823f95d15b01d49af8e7063e5798c8b03ded608")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+3ff851765326af5f286f96d5b5780e97791aeaf3")]
 [assembly: System.Reflection.AssemblyProductAttribute("DocLink.Domain")]
 [assembly: System.Reflection.AssemblyTitleAttribute("DocLink.Domain")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
