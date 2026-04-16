@@ -15,5 +15,5 @@ The first step was to chose what kind of architecture would be used for this cod
 > Implementation of base Classes.
 - [X] Implement Patient Domain
 > Implementation of Patient and its related Classes.
-- [ ] Implement Document Domain
-> Implementation of Document and its related Classes.
+- [ ] Implement Record Domain
+> Implementation of Record and its related Classes.
