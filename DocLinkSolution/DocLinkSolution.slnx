@@ -1,5 +1,6 @@
 <Solution>
   <Folder Name="/src/">
+    <Project Path="Application/Application.csproj" Id="d7e37987-d707-4390-b1d8-62eb9c8b43b1" />
     <Project Path="DocLink.Domain/DocLink.Domain.csproj" Id="4c6884c9-b7f0-4c47-af19-82baf63cfbc8" />
   </Folder>
   <Folder Name="/tests/" />
