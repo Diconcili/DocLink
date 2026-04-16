@@ -15,5 +15,5 @@ O primeiro passo foi escolher que tipo de arquitetura seria utilizada para este 
 > Implementação das classes base.
 - [x] Implementar o domínio Paciente
 > Implementação de Paciente e suas classes relacionadas.
-- [ ] Implementar o domínio Documento
-> Implementação de Documento e suas classes relacionadas.
+- [ ] Implementar o domínio Histórico
+> Implementação de Histórico e suas classes relacionadas.
