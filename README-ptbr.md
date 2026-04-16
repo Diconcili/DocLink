@@ -5,14 +5,14 @@ O primeiro e principal objetivo deste projeto é fornecer um serviço capaz de p
 O primeiro passo foi escolher que tipo de arquitetura seria utilizada para este código. Naturalmente, o Desenvolvimento Orientado a Domínio foi o escolhido. 
 
 # Etapas: 
-- [X] Definir a arquitetura
+- [x] Definir a arquitetura
 > Criação da solução e de cada uma de suas pastas
 
-- [X] Implementar a camada de domínio
+- [x] Implementar a camada de domínio
 > Criação da pasta Domínio
-- [X] Implementar o compartilhado a partir do domínio
+- [x] Implementar o compartilhado a partir do domínio
 > Implementação das classes base.
-- [X] Implementar o domínio Paciente
+- [x] Implementar o domínio Paciente
 > Implementação de Paciente e suas classes relacionadas.
 - [ ] Implementar o domínio Documento
 > Implementação de Documento e suas classes relacionadas.
