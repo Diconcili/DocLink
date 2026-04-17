@@ -1,7 +1,8 @@
 <Solution>
   <Folder Name="/src/">
-    <Project Path="Application/Application.csproj" Id="d7e37987-d707-4390-b1d8-62eb9c8b43b1" />
+    <Project Path="Application/DocLink.Application.csproj" Id="d7e37987-d707-4390-b1d8-62eb9c8b43b1" />
     <Project Path="DocLink.Domain/DocLink.Domain.csproj" Id="4c6884c9-b7f0-4c47-af19-82baf63cfbc8" />
+    <Project Path="DocLink.Infrastructure/DocLink.Infrastructure.csproj" Id="0c30e3a4-56c6-4908-8f54-21094eece6fa" />
   </Folder>
   <Folder Name="/tests/" />
 </Solution>

@@ -1,7 +1,68 @@
 {
   "Version": 1,
   "WorkspaceRootPath": "D:\\Reposit\u00F3rios\\DocLink\\DocLinkSolution\\",
-  "Documents": [],
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\Reposit\u00F3rios\\DocLink\\DocLinkSolution\\DocLink.Domain\\Record\\RecordService.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:DocLink.Domain\\Record\\RecordService.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4C6884C9-B7F0-4C47-AF19-82BAF63CFBC8}|DocLink.Domain\\DocLink.Domain.csproj|d:\\reposit\u00F3rios\\doclink\\doclinksolution\\doclink.domain\\patient\\patientservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4C6884C9-B7F0-4C47-AF19-82BAF63CFBC8}|DocLink.Domain\\DocLink.Domain.csproj|solutionrelative:doclink.domain\\patient\\patientservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4C6884C9-B7F0-4C47-AF19-82BAF63CFBC8}|DocLink.Domain\\DocLink.Domain.csproj|d:\\reposit\u00F3rios\\doclink\\doclinksolution\\doclink.domain\\patient\\ipatientrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4C6884C9-B7F0-4C47-AF19-82BAF63CFBC8}|DocLink.Domain\\DocLink.Domain.csproj|solutionrelative:doclink.domain\\patient\\ipatientrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4C6884C9-B7F0-4C47-AF19-82BAF63CFBC8}|DocLink.Domain\\DocLink.Domain.csproj|d:\\reposit\u00F3rios\\doclink\\doclinksolution\\doclink.domain\\patient\\patient.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4C6884C9-B7F0-4C47-AF19-82BAF63CFBC8}|DocLink.Domain\\DocLink.Domain.csproj|solutionrelative:doclink.domain\\patient\\patient.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4C6884C9-B7F0-4C47-AF19-82BAF63CFBC8}|DocLink.Domain\\DocLink.Domain.csproj|d:\\reposit\u00F3rios\\doclink\\doclinksolution\\doclink.domain\\patient\\patientid.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4C6884C9-B7F0-4C47-AF19-82BAF63CFBC8}|DocLink.Domain\\DocLink.Domain.csproj|solutionrelative:doclink.domain\\patient\\patientid.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4C6884C9-B7F0-4C47-AF19-82BAF63CFBC8}|DocLink.Domain\\DocLink.Domain.csproj|d:\\reposit\u00F3rios\\doclink\\doclinksolution\\doclink.domain\\patient\\patientfullname.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4C6884C9-B7F0-4C47-AF19-82BAF63CFBC8}|DocLink.Domain\\DocLink.Domain.csproj|solutionrelative:doclink.domain\\patient\\patientfullname.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4C6884C9-B7F0-4C47-AF19-82BAF63CFBC8}|DocLink.Domain\\DocLink.Domain.csproj|d:\\reposit\u00F3rios\\doclink\\doclinksolution\\doclink.domain\\record\\document.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4C6884C9-B7F0-4C47-AF19-82BAF63CFBC8}|DocLink.Domain\\DocLink.Domain.csproj|solutionrelative:doclink.domain\\record\\document.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4C6884C9-B7F0-4C47-AF19-82BAF63CFBC8}|DocLink.Domain\\DocLink.Domain.csproj|d:\\reposit\u00F3rios\\doclink\\doclinksolution\\doclink.domain\\record\\pdfmetadata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4C6884C9-B7F0-4C47-AF19-82BAF63CFBC8}|DocLink.Domain\\DocLink.Domain.csproj|solutionrelative:doclink.domain\\record\\pdfmetadata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4C6884C9-B7F0-4C47-AF19-82BAF63CFBC8}|DocLink.Domain\\DocLink.Domain.csproj|d:\\reposit\u00F3rios\\doclink\\doclinksolution\\doclink.domain\\record\\documentid.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4C6884C9-B7F0-4C47-AF19-82BAF63CFBC8}|DocLink.Domain\\DocLink.Domain.csproj|solutionrelative:doclink.domain\\record\\documentid.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4C6884C9-B7F0-4C47-AF19-82BAF63CFBC8}|DocLink.Domain\\DocLink.Domain.csproj|d:\\reposit\u00F3rios\\doclink\\doclinksolution\\doclink.domain\\shared\\valueobject.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4C6884C9-B7F0-4C47-AF19-82BAF63CFBC8}|DocLink.Domain\\DocLink.Domain.csproj|solutionrelative:doclink.domain\\shared\\valueobject.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4C6884C9-B7F0-4C47-AF19-82BAF63CFBC8}|DocLink.Domain\\DocLink.Domain.csproj|d:\\reposit\u00F3rios\\doclink\\doclinksolution\\doclink.domain\\doclink.domain.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{4C6884C9-B7F0-4C47-AF19-82BAF63CFBC8}|DocLink.Domain\\DocLink.Domain.csproj|solutionrelative:doclink.domain\\doclink.domain.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4C6884C9-B7F0-4C47-AF19-82BAF63CFBC8}|DocLink.Domain\\DocLink.Domain.csproj|d:\\reposit\u00F3rios\\doclink\\doclinksolution\\doclink.domain\\shared\\entity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4C6884C9-B7F0-4C47-AF19-82BAF63CFBC8}|DocLink.Domain\\DocLink.Domain.csproj|solutionrelative:doclink.domain\\shared\\entity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\Reposit\u00F3rios\\DocLink\\DocLinkSolution\\DocLink.Domain\\Record\\IRecordRepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:DocLink.Domain\\Record\\IRecordRepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\Reposit\u00F3rios\\DocLink\\DocLinkSolution\\DocLink.Domain\\Record\\RecordId.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:DocLink.Domain\\Record\\RecordId.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\Reposit\u00F3rios\\DocLink\\DocLinkSolution\\DocLink.Domain\\Record\\Record.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:DocLink.Domain\\Record\\Record.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
@@ -9,7 +70,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": -1,
+          "SelectedChildIndex": 3,
           "Children": [
             {
               "$type": "Bookmark",
@@ -22,6 +83,185 @@
             {
               "$type": "Bookmark",
               "Name": "ST:128:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "RecordService.cs",
+              "DocumentMoniker": "D:\\Reposit\u00F3rios\\DocLink\\DocLinkSolution\\DocLink.Domain\\Record\\RecordService.cs",
+              "RelativeDocumentMoniker": "DocLink.Domain\\Record\\RecordService.cs",
+              "ToolTip": "D:\\Reposit\u00F3rios\\DocLink\\DocLinkSolution\\DocLink.Domain\\Record\\RecordService.cs",
+              "RelativeToolTip": "DocLink.Domain\\Record\\RecordService.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-16T19:09:54.414Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "PatientService.cs",
+              "DocumentMoniker": "D:\\Reposit\u00F3rios\\DocLink\\DocLinkSolution\\DocLink.Domain\\Patient\\PatientService.cs",
+              "RelativeDocumentMoniker": "DocLink.Domain\\Patient\\PatientService.cs",
+              "ToolTip": "D:\\Reposit\u00F3rios\\DocLink\\DocLinkSolution\\DocLink.Domain\\Patient\\PatientService.cs",
+              "RelativeToolTip": "DocLink.Domain\\Patient\\PatientService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACYAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-16T19:04:25.937Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "IRecordRepository.cs",
+              "DocumentMoniker": "D:\\Reposit\u00F3rios\\DocLink\\DocLinkSolution\\DocLink.Domain\\Record\\IRecordRepository.cs",
+              "RelativeDocumentMoniker": "DocLink.Domain\\Record\\IRecordRepository.cs",
+              "ToolTip": "D:\\Reposit\u00F3rios\\DocLink\\DocLinkSolution\\DocLink.Domain\\Record\\IRecordRepository.cs",
+              "RelativeToolTip": "DocLink.Domain\\Record\\IRecordRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-16T19:03:01.552Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "IPatientRepository.cs",
+              "DocumentMoniker": "D:\\Reposit\u00F3rios\\DocLink\\DocLinkSolution\\DocLink.Domain\\Patient\\IPatientRepository.cs",
+              "RelativeDocumentMoniker": "DocLink.Domain\\Patient\\IPatientRepository.cs",
+              "ToolTip": "D:\\Reposit\u00F3rios\\DocLink\\DocLinkSolution\\DocLink.Domain\\Patient\\IPatientRepository.cs",
+              "RelativeToolTip": "DocLink.Domain\\Patient\\IPatientRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-16T18:56:40.777Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "PdfMetadata.cs",
+              "DocumentMoniker": "D:\\Reposit\u00F3rios\\DocLink\\DocLinkSolution\\DocLink.Domain\\Record\\PdfMetadata.cs",
+              "RelativeDocumentMoniker": "DocLink.Domain\\Record\\PdfMetadata.cs",
+              "ToolTip": "D:\\Reposit\u00F3rios\\DocLink\\DocLinkSolution\\DocLink.Domain\\Record\\PdfMetadata.cs",
+              "RelativeToolTip": "DocLink.Domain\\Record\\PdfMetadata.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-16T18:37:55.534Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Document.cs",
+              "DocumentMoniker": "D:\\Reposit\u00F3rios\\DocLink\\DocLinkSolution\\DocLink.Domain\\Record\\Document.cs",
+              "RelativeDocumentMoniker": "DocLink.Domain\\Record\\Document.cs",
+              "ToolTip": "D:\\Reposit\u00F3rios\\DocLink\\DocLinkSolution\\DocLink.Domain\\Record\\Document.cs",
+              "RelativeToolTip": "DocLink.Domain\\Record\\Document.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAA5AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-16T18:22:01.692Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "RecordId.cs",
+              "DocumentMoniker": "D:\\Reposit\u00F3rios\\DocLink\\DocLinkSolution\\DocLink.Domain\\Record\\RecordId.cs",
+              "RelativeDocumentMoniker": "DocLink.Domain\\Record\\RecordId.cs",
+              "ToolTip": "D:\\Reposit\u00F3rios\\DocLink\\DocLinkSolution\\DocLink.Domain\\Record\\RecordId.cs",
+              "RelativeToolTip": "DocLink.Domain\\Record\\RecordId.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAB8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-16T18:21:48.187Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Record.cs",
+              "DocumentMoniker": "D:\\Reposit\u00F3rios\\DocLink\\DocLinkSolution\\DocLink.Domain\\Record\\Record.cs",
+              "RelativeDocumentMoniker": "DocLink.Domain\\Record\\Record.cs",
+              "ToolTip": "D:\\Reposit\u00F3rios\\DocLink\\DocLinkSolution\\DocLink.Domain\\Record\\Record.cs",
+              "RelativeToolTip": "DocLink.Domain\\Record\\Record.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABsAAAA1AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-16T18:21:01.013Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "DocumentId.cs",
+              "DocumentMoniker": "D:\\Reposit\u00F3rios\\DocLink\\DocLinkSolution\\DocLink.Domain\\Record\\DocumentId.cs",
+              "RelativeDocumentMoniker": "DocLink.Domain\\Record\\DocumentId.cs",
+              "ToolTip": "D:\\Reposit\u00F3rios\\DocLink\\DocLinkSolution\\DocLink.Domain\\Record\\DocumentId.cs",
+              "RelativeToolTip": "DocLink.Domain\\Record\\DocumentId.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-16T18:22:12.04Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Patient.cs",
+              "DocumentMoniker": "D:\\Reposit\u00F3rios\\DocLink\\DocLinkSolution\\DocLink.Domain\\Patient\\Patient.cs",
+              "RelativeDocumentMoniker": "DocLink.Domain\\Patient\\Patient.cs",
+              "ToolTip": "D:\\Reposit\u00F3rios\\DocLink\\DocLinkSolution\\DocLink.Domain\\Patient\\Patient.cs",
+              "RelativeToolTip": "DocLink.Domain\\Patient\\Patient.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-15T21:45:39.972Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "PatientId.cs",
+              "DocumentMoniker": "D:\\Reposit\u00F3rios\\DocLink\\DocLinkSolution\\DocLink.Domain\\Patient\\PatientId.cs",
+              "RelativeDocumentMoniker": "DocLink.Domain\\Patient\\PatientId.cs",
+              "ToolTip": "D:\\Reposit\u00F3rios\\DocLink\\DocLinkSolution\\DocLink.Domain\\Patient\\PatientId.cs",
+              "RelativeToolTip": "DocLink.Domain\\Patient\\PatientId.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-15T21:45:20.625Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "PatientFullName.cs",
+              "DocumentMoniker": "D:\\Reposit\u00F3rios\\DocLink\\DocLinkSolution\\DocLink.Domain\\Patient\\PatientFullName.cs",
+              "RelativeDocumentMoniker": "DocLink.Domain\\Patient\\PatientFullName.cs",
+              "ToolTip": "D:\\Reposit\u00F3rios\\DocLink\\DocLinkSolution\\DocLink.Domain\\Patient\\PatientFullName.cs",
+              "RelativeToolTip": "DocLink.Domain\\Patient\\PatientFullName.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB8AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-15T21:45:31.061Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "ValueObject.cs",
+              "DocumentMoniker": "D:\\Reposit\u00F3rios\\DocLink\\DocLinkSolution\\DocLink.Domain\\Shared\\ValueObject.cs",
+              "RelativeDocumentMoniker": "DocLink.Domain\\Shared\\ValueObject.cs",
+              "ToolTip": "D:\\Reposit\u00F3rios\\DocLink\\DocLinkSolution\\DocLink.Domain\\Shared\\ValueObject.cs",
+              "RelativeToolTip": "DocLink.Domain\\Shared\\ValueObject.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABoAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-15T21:47:38.295Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Entity.cs",
+              "DocumentMoniker": "D:\\Reposit\u00F3rios\\DocLink\\DocLinkSolution\\DocLink.Domain\\Shared\\Entity.cs",
+              "RelativeDocumentMoniker": "DocLink.Domain\\Shared\\Entity.cs",
+              "ToolTip": "D:\\Reposit\u00F3rios\\DocLink\\DocLinkSolution\\DocLink.Domain\\Shared\\Entity.cs",
+              "RelativeToolTip": "DocLink.Domain\\Shared\\Entity.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-15T21:47:27.574Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "DocLink.Domain.csproj",
+              "DocumentMoniker": "D:\\Reposit\u00F3rios\\DocLink\\DocLinkSolution\\DocLink.Domain\\DocLink.Domain.csproj",
+              "RelativeDocumentMoniker": "DocLink.Domain\\DocLink.Domain.csproj",
+              "ToolTip": "D:\\Reposit\u00F3rios\\DocLink\\DocLinkSolution\\DocLink.Domain\\DocLink.Domain.csproj",
+              "RelativeToolTip": "DocLink.Domain\\DocLink.Domain.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-04-15T18:44:35.366Z"
             }
           ]
         }
