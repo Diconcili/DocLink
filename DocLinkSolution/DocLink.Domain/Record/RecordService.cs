@@ -14,6 +14,11 @@ namespace DocLink.Domain.Record
             _recordRepository = recordRepository;
         }
 
+        public async Task<Record?> GetByIdAsync(RecordId id)
+        {
+            return await _recordRepository.GetByIdAsync(id);
+        }
+
         public async Task<Record> CreateAsync(PatientId patientId)
         {
             var existing = await _recordRepository.GetByPatientIdAsync(patientId);
