@@ -32,7 +32,7 @@ namespace Application.Record.Handlers
             return MapToDto(record);
         }
 
-        private static RecordDto MapToDto(Record record) => new()
+        private static RecordDto MapToDto(PatientRecord record) => new()
         {
             Id = record.Id.Value,
             PatientId = record.PatientId.Value,
@@ -40,7 +40,7 @@ namespace Application.Record.Handlers
             {
                 Id = d.Id.Value,
                 FileName = d.Metadata.FileName,
-                AddedAt = d.Metadata.AddedAt
+                AddedAt = d.Metadata.ExtractedAt
             })
         };
 
