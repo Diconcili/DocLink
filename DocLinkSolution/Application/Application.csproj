@@ -10,8 +10,4 @@
     <ProjectReference Include="..\DocLink.Domain\DocLink.Domain.csproj" />
   </ItemGroup>
 
-  <ItemGroup>
-    <Folder Include="Record\Handlers\" />
-  </ItemGroup>
-
 </Project>
