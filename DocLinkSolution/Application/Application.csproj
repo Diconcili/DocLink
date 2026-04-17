@@ -11,7 +11,6 @@
   </ItemGroup>
 
   <ItemGroup>
-    <Folder Include="Patient\Handlers\" />
     <Folder Include="Record\Commands\" />
     <Folder Include="Record\Handlers\" />
   </ItemGroup>
