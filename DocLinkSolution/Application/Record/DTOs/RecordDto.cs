@@ -4,7 +4,7 @@ using System.Text;
 
 namespace Application.Record.DTOs
 {
-    internal class RecordDto
+    public sealed class RecordDto
     {
         public Guid Id { get; init; }
         public Guid PatientId { get; init; }

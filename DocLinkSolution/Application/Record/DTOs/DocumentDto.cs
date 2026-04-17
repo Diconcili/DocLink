@@ -4,7 +4,7 @@ using System.Text;
 
 namespace Application.Record.DTOs
 {
-    internal class DocumentDto
+    public sealed class DocumentDto
     {
         public Guid Id { get; init; }
         public string FileName { get; init; }
