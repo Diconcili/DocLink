@@ -14,12 +14,12 @@ namespace DocLink.Domain.Record
             _recordRepository = recordRepository;
         }
 
-        public async Task<Record?> GetByIdAsync(RecordId id)
+        public async Task<PatientRecord?> GetByIdAsync(RecordId id)
         {
             return await _recordRepository.GetByIdAsync(id);
         }
 
-        public async Task<Record> CreateAsync(PatientId patientId)
+        public async Task<PatientRecord> CreateAsync(PatientId patientId)
         {
             var existing = await _recordRepository.GetByPatientIdAsync(patientId);
 
@@ -28,7 +28,7 @@ namespace DocLink.Domain.Record
                 throw new Exception("Patient already has a record.");
             }
 
-            var record = new Record(RecordId.NewId(), patientId);
+            var record = new PatientRecord(RecordId.NewId(), patientId);
 
             await _recordRepository.AddAsync(record);
 

@@ -27,7 +27,7 @@ namespace Application.Record.Handlers
 
             await _recordService.AddDocumentAsync(recordId, metadata);
 
-            var record = await _recordService._recordRepository.GetByIdAsync(recordId) ?? throw new Exception($"Record with ID {recordId} not found."));
+            var record = await _recordService.GetByIdAsync(recordId) ?? throw new Exception($"Record with ID {recordId} not found.");
 
             return MapToDto(record);
         }

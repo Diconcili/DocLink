@@ -6,7 +6,7 @@ using System.Text;
 
 namespace DocLink.Domain.Record
 {
-    public sealed class Record : Entity
+    public sealed class PatientRecord : Entity
     {
         public RecordId Id { get; }
         public PatientId PatientId { get; }
@@ -14,7 +14,7 @@ namespace DocLink.Domain.Record
         private readonly List<Document> documentList = new();
         public IReadOnlyCollection<Document> Documents => documentList.AsReadOnly();
 
-        public Record(RecordId id, PatientId patientId)
+        public PatientRecord(RecordId id, PatientId patientId)
         {
             if (id is null)
                 throw new Exception("RecordId is required.");

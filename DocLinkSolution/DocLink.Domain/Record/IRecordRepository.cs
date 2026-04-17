@@ -7,10 +7,10 @@ namespace DocLink.Domain.Record
 {
     public interface IRecordRepository
     {
-        Task<Record?> GetByIdAsync(RecordId id);
-        Task<Record?> GetByPatientIdAsync(PatientId patientId);
-        Task AddAsync(Record record);
-        Task UpdateAsync(Record record);
+        Task<PatientRecord?> GetByIdAsync(RecordId id);
+        Task<PatientRecord?> GetByPatientIdAsync(PatientId patientId);
+        Task AddAsync(PatientRecord record);
+        Task UpdateAsync(PatientRecord record);
         Task DeleteAsync(RecordId id);
     }
 }
