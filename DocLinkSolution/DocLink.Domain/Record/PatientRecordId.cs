@@ -5,11 +5,11 @@ using System.Text;
 
 namespace DocLink.Domain.Record
 {
-    public sealed class RecordId : ValueObject
+    public sealed class PatientRecordId : ValueObject
     {
         public Guid Value { get; }
 
-        public RecordId(Guid value)
+        public PatientRecordId(Guid value)
         {
             if (value == Guid.Empty)
             {
@@ -18,8 +18,8 @@ namespace DocLink.Domain.Record
             Value = value;
         }
 
-        public static RecordId NewId() => new (Guid.NewGuid()); 
-        public static RecordId From(Guid value) => new(value);
+        public static PatientRecordId NewId() => new (Guid.NewGuid()); 
+        public static PatientRecordId From(Guid value) => new(value);
 
         protected override IEnumerable<object> GetEqualityComponents()
         {

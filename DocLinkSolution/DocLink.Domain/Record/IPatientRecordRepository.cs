@@ -5,12 +5,12 @@ using System.Text;
 
 namespace DocLink.Domain.Record
 {
-    public interface IRecordRepository
+    public interface IPatientRecordRepository
     {
-        Task<PatientRecord?> GetByIdAsync(RecordId id);
+        Task<PatientRecord?> GetByIdAsync(PatientRecordId id);
         Task<PatientRecord?> GetByPatientIdAsync(PatientId patientId);
         Task AddAsync(PatientRecord record);
         Task UpdateAsync(PatientRecord record);
-        Task DeleteAsync(RecordId id);
+        Task DeleteAsync(PatientRecordId id);
     }
 }

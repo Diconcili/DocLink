@@ -8,12 +8,12 @@ namespace DocLink.Domain.Record
     public sealed class Document : Entity
     {
         public DocumentId Id { get; }
-        public RecordId RecordId { get; }
+        public PatientRecordId RecordId { get; }
         public PdfMetadata Metadata { get; private set; }
         public DateTime AddedAt { get; }
 
 
-        public Document(DocumentId id, RecordId recordId, PdfMetadata metadata)
+        public Document(DocumentId id, PatientRecordId recordId, PdfMetadata metadata)
         {
             if (id is null)
                 throw new Exception("DocumentId is required.");

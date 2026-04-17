@@ -8,22 +8,22 @@ using System.Text;
 
 namespace Application.Record.Handlers
 {
-    public sealed class CreateRecordHandler
+    public sealed class CreatePatientRecordHandler
     {
-        private readonly RecordService _recordService;
+        private readonly PatientRecordService _recordService;
 
-        public CreateRecordHandler(RecordService recordService)
+        public CreatePatientRecordHandler(PatientRecordService recordService)
         {
             _recordService = recordService;
         }
 
-        public async Task<RecordDto> HandleAsync(CreateRecordCommand command)
+        public async Task<PatientRecordDto> HandleAsync(CreatePatientRecordCommand command)
         {
             var patientId = PatientId.From(command.PatientId);
 
             var record = await _recordService.CreateAsync(patientId);
 
-            return new RecordDto
+            return new PatientRecordDto
             {
                 Id = record.Id.Value,
                 PatientId = record.PatientId.Value,

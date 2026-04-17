@@ -5,16 +5,16 @@ using System.Text;
 
 namespace DocLink.Domain.Record
 {
-    public sealed class RecordService
+    public sealed class PatientRecordService
     {
-        private readonly IRecordRepository _recordRepository;
+        private readonly IPatientRecordRepository _recordRepository;
 
-        public RecordService(IRecordRepository recordRepository)
+        public PatientRecordService(IPatientRecordRepository recordRepository)
         {
             _recordRepository = recordRepository;
         }
 
-        public async Task<PatientRecord?> GetByIdAsync(RecordId id)
+        public async Task<PatientRecord?> GetByIdAsync(PatientRecordId id)
         {
             return await _recordRepository.GetByIdAsync(id);
         }
@@ -28,14 +28,14 @@ namespace DocLink.Domain.Record
                 throw new Exception("Patient already has a record.");
             }
 
-            var record = new PatientRecord(RecordId.NewId(), patientId);
+            var record = new PatientRecord(PatientRecordId.NewId(), patientId);
 
             await _recordRepository.AddAsync(record);
 
             return record;
         }
 
-        public async Task AddDocumentAsync(RecordId recordId, PdfMetadata metadata)
+        public async Task AddDocumentAsync(PatientRecordId recordId, PdfMetadata metadata)
         {
             var record = await _recordRepository.GetByIdAsync(recordId);
 
@@ -49,7 +49,7 @@ namespace DocLink.Domain.Record
             await _recordRepository.UpdateAsync(record);
         }
 
-        public async Task RemoveDocumentAsync(RecordId recordId, DocumentId documentId)
+        public async Task RemoveDocumentAsync(PatientRecordId recordId, DocumentId documentId)
         {
             var record = await _recordRepository.GetByIdAsync(recordId);
 

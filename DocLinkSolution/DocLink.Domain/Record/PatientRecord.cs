@@ -8,13 +8,13 @@ namespace DocLink.Domain.Record
 {
     public sealed class PatientRecord : Entity
     {
-        public RecordId Id { get; }
+        public PatientRecordId Id { get; }
         public PatientId PatientId { get; }
 
         private readonly List<Document> documentList = new();
         public IReadOnlyCollection<Document> Documents => documentList.AsReadOnly();
 
-        public PatientRecord(RecordId id, PatientId patientId)
+        public PatientRecord(PatientRecordId id, PatientId patientId)
         {
             if (id is null)
                 throw new Exception("RecordId is required.");

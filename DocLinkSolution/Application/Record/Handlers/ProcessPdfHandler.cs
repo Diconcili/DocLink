@@ -10,18 +10,18 @@ namespace Application.Record.Handlers
 {
     public sealed class ProcessPdfHandler
     {
-        private readonly RecordService _recordService;
+        private readonly PatientRecordService _recordService;
         private readonly IPdfParser _pdfParser;
 
-        public ProcessPdfHandler(RecordService recordService, IPdfParser pdfParser)
+        public ProcessPdfHandler(PatientRecordService recordService, IPdfParser pdfParser)
         {
             _recordService = recordService;
             _pdfParser = pdfParser;
         }
 
-        public async Task<RecordDto> HandleAsync(ProcessPdfCommand command)
+        public async Task<PatientRecordDto> HandleAsync(ProcessPdfCommand command)
         {
-            var recordId = RecordId.From(command.RecordId);
+            var recordId = PatientRecordId.From(command.PatientRecordId);
 
             var metadata = _pdfParser.Parse(command.FilePath);
 
@@ -32,7 +32,7 @@ namespace Application.Record.Handlers
             return MapToDto(record);
         }
 
-        private static RecordDto MapToDto(PatientRecord record) => new()
+        private static PatientRecordDto MapToDto(PatientRecord record) => new()
         {
             Id = record.Id.Value,
             PatientId = record.PatientId.Value,
